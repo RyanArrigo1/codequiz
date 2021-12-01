@@ -1,1 +1,0 @@
-For this assignment I created two index files one for the main outline of the content and one for the outline of the highscore content. Then I created two javascript files one for the questions and main content then another for the high score content. Then I created the css file for the styling of the quiz. 
